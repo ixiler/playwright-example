@@ -1,1 +1,1 @@
-# playwright-example
+# playwrightPlaground
